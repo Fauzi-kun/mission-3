@@ -1,0 +1,102 @@
+.header{
+    padding: 12px 120px;
+    height: 80px;
+}
+.body{
+    padding: 64px 120px;
+}
+.wrapper{
+    margin: auto;
+    padding: 36px;
+    width: 590px;
+    border: 1px;
+    border-style: solid;
+    border-color: #F1F1F1;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.desc{
+    text-align: center;
+    margin: 10px 10px 20px;
+}
+.masukAkun{
+    font-size: 32px;
+    font-weight: 600;
+    margin: 5px;
+
+    
+}
+.yuk{
+    font-size: 16px;
+    font-weight: 400px;
+}
+.wrapper button{
+    align-content: center;
+    width: 100%;
+    margin: 3px;
+}
+.btnMasuk{
+    background-color: #3ECF4C;
+    border: none;
+    border-radius: 3px;
+    color: #F1F1F1;
+    padding: 10px 26px;
+    margin: 20px;
+}
+.btnDaftar{
+    background-color: #E2FCD9CC;
+    border: none;
+    border-radius: 3px;
+    color: #3ECF4C;
+    padding: 10px 26px;
+    margin: 8px;
+}
+.wrapper .atau{
+    text-align: center;
+    color: #4A505C;
+    font-size: 16px;
+    font-weight: 400;
+}
+.wrapper .btnGoogle{
+    color: #4A505C;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22.4px;
+    letter-spacing: 0.2px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #F1F1F1;
+    margin: 8px;
+}
+.wrapper input{
+    width: 100%;
+}
+.lupa{
+    color: #4A505C;
+    text-align: right;
+    text-decoration: none;
+}
+.passMargin{
+    margin-bottom: 8px;
+    opacity: 15%;
+    height: 30px;
+}
+.passMargin:hover{
+    opacity: 100%;
+}
+.wrapper .hp{
+    width: 100%;
+    margin-bottom: 8px;
+    opacity: 15%;
+    height: 30px;
+}
+.wrapper .hp:hover{
+    opacity: 100%;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
